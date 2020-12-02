@@ -1,24 +1,17 @@
 # LSTM-MSNET
-Implementation LSTM-MSNet: Leveraging Forecasts on Sets of Related Time Series with Multiple Seasonal Patterns by  kasungayan
+Implementation of LSTM-MSNet: Leveraging Forecasts on Sets of Related Time Series with Multiple Seasonal Patterns by  kasungayan
 https://arxiv.org/pdf/1909.04293.pdf
 Used Deseasonalizaton approach
 
 # About the Dataset:
 For Training Use Hourly-train.csv : https://www.kaggle.com/yogesh94/m4-forecasting-competition-dataset?select=Hourly-train.csv
 For Testing Use Hourly-test.csv: https://www.kaggle.com/yogesh94/m4-forecasting-competition-dataset?select=Hourly-test.csv
-Copy this doc
-Greendeck ML Assignment
-Background
-﻿
-We, at Greendeck, help retailers with pricing intelligence and business monitoring. 
-One of our main challenges comprise of monitoring and analyzing our client's business metrics in real time for instant detection of the incidents that may impact their revenue. 
-One subpart of this challenge is Autonomous Forecasting which anticipate demand and business results so that our clients operation is optimized for every future scenario. 
-The Problem Statement presented below highlights a paper which attempts to solve Autonomous Forecasting 
-Problem Statement
-﻿
-As a part of our evaluation metric for candidates for this role, we'd like you to implement the following paper: LSTM-MSNet https://arxiv.org/pdf/1909.04293.pdf
 
 ﻿
+One of our main challenges comprise of monitoring and analyzing client's business metrics in real time for instant detection of the incidents that may impact their revenue. 
+One subpart of this challenge is Autonomous Forecasting which anticipate demand and business results so that clients operation is optimized for every future scenario. 
+The Problem Statement presented below highlights a paper which attempts to solve Autonomous Forecasting 
+Problem Statement
 LSTM-MSNet Overview
 ﻿
 In this paper, the author proposes Long Short-Term Memory Multi-Seasonal Net (LSTM-MSNet), a decomposition based, unified prediction framework to forecast time series with multiple seasonal patterns. 
